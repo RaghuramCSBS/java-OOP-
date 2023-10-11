@@ -1,7 +1,7 @@
 package javaFun;
 abstract class P{
 //abstract method should be in abstract class
-//abstract class should not need to have in abstract method
+//abstract class should not need to have abstract method
 //abstract class can't have objects
 //to access abstract class we need to inherit it to child class
 //abstract method need to be override 
